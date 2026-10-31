@@ -1,4 +1,9 @@
-## Hi there 👋
+你好，我是吴博源。
+
+- **学校与专业**：西安电子科技大学 计算机科学与技术学院 软件工程专业
+- **正在学习**：开源软件开发实践课程
+- **本学期目标**：理解开源项目如何运转，完成一次规范贡献
+- **希望建立的习惯**：记录问题、阅读文档、尊重许可证
 
 <!--
 **zxx-051004/zxx-051004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
